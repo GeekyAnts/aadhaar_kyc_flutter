@@ -1,7 +1,7 @@
 name: aadhaar_kyc_flutter
-description: A new Flutter package project.
+description: A Flutter plugin which helps you to aadhaar kyc to your app.
 version: 0.0.1
-homepage:
+homepage: https://github.com/GeekyAnts/aadhaar_kyc_flutter/blob/master/README.md
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
