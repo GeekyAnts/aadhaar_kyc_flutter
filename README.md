@@ -67,7 +67,9 @@ Note: In this package we have used [Postman Aadhaar_KYC API](https://www.postman
 
 ## Code Illustration
 
-import 'package:aadhaar_kyc_flutter/aadhaar_kyc_flutter.dart';
+
+  ```dart
+  import 'package:aadhaar_kyc_flutter/aadhaar_kyc_flutter.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -109,3 +111,6 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+  ``` 
+
+
