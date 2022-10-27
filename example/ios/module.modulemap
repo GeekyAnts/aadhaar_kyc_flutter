@@ -1,0 +1,5 @@
+module libtesseract {
+header 
+"/Users/gayathridevisrinivasan/Documents/aadhaar_kyc_flutter/example/assets/tessdata/eng.traineddata/dependencies/include/tesseract/capi.h"
+export *
+}
