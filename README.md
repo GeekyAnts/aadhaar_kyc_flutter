@@ -94,7 +94,6 @@ This API is used for verfying OTP recieved on registered number of aadhaar.
 | textFormFieldPadding         | To set padding of text form field of the AadhaarKyc widget |
 | aadhaarNumberHintText        | To set display height of AadhaarKyc widget |
 | otpTextFieldColor            | To set display height of AadhaarKyc widget |
-|
 
 ## Example
 Please run the app in the [example folder](https://github.com/GeekyAnts/aadhaar_kyc_flutter/tree/master/example) to get clear idea of implementation !
