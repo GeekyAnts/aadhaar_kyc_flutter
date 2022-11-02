@@ -35,8 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
         centerTitle: false,
       ),
       body: const AadhaarKyc(
-        apiKey:
-            'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY2MzU2Njg4OCwianRpIjoiYTZjZTNjYzEtYzY1NS00MjUxLWI5OGUtMjk3ODY5ZDcxYzA2IiwidHlwZSI6ImFjY2VzcyIsImlkZW50aXR5IjoiZGV2LmdlZWt5YW50c0BzdXJlcGFzcy5pbyIsIm5iZiI6MTY2MzU2Njg4OCwiZXhwIjoxNjY0NDMwODg4LCJ1c2VyX2NsYWltcyI6eyJzY29wZXMiOlsid2FsbGV0Il19fQ.X8DK6lEAW2Ijn8i0xSrwf-fRtYKVFnFxiWB8SAncrnI',
+        apiKey: 'Your API Key',
       ),
     );
   }
